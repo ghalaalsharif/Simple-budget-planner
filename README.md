@@ -3,12 +3,11 @@
 A software engineering academic project developed as part of a Software Engineering Fundamentals course at Umm Al-Qura University
 
 ## 👥 Team Members
-* Ghadi
 * Ghala Hussain AlSharif
 * Yara
 * Jood
 * Anhar
-* Instructor: Dr. Basmah M. Alsenan
+* Ghadi
 
 ---
 
